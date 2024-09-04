@@ -1,7 +1,7 @@
 # Hi!
-+ its my first test project
-+ commint & push test
-+ last commit & push testing :\
++ Its my first test project.
++ Commint & push test.
++ Last commit & push testing. :\
 
 ## Settings
-+ none
++ None.
